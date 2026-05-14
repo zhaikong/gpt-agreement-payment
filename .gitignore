@@ -43,7 +43,6 @@ __pycache__/
 *.bak.*
 
 # IDE / 工具
-.vscode/
 .idea/
 .claude/
 .codex/
@@ -63,3 +62,5 @@ Thumbs.db
 test_*.py
 !test_rt.py.example
 !webui/tests/test_*.py
+config.bat
+node_modules
